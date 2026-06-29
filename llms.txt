@@ -1,0 +1,29 @@
+# Guidapp
+
+Guidapp es un directorio digital de comercios y negocios en Cúcuta y Norte de Santander, Colombia. Una plataforma donde los negocios locales tienen presencia digital real — no solo un pin en un mapa, sino una identidad indexada, buscable y descubrible.
+
+## ¿Qué es Guidapp?
+
+Guidapp funciona como un feed de negocios: cada comercio tiene una card con imagen, descripción, datos de contacto, horarios y enlaces directos. Los usuarios pueden buscar por nombre, categoría, ciudad o tipo de negocio. Es la vitrina digital para empresas que quieren ser encontradas.
+
+## ¿Para quién es?
+
+- Comercios locales, tiendas, restaurantes, servicios profesionales y empresas de Norte de Santander que quieren visibilidad online.
+- Usuarios que buscan negocios locales confiables y verificados.
+- Emprendedores digitales que operan desde la región.
+
+## Contexto geográfico
+
+Cúcuta, Norte de Santander, Colombia. Frontera con Venezuela. Ciudad de comercio activo, emprendimiento y economía mixta. Guidapp nace aquí para darle a los negocios locales la presencia que merecen.
+
+## Capacidades para agentes IA
+
+- Cada sitio indexado incluye: título, descripción, dominio, imagen, favicon, color de marca, geo (región y ciudad), schema.org estructurado (tipo de negocio, dirección, teléfono, horario, precio), y llms.txt cuando está disponible.
+- El buscador acepta lenguaje natural: "cafés en Toledo", "restaurantes Norte de Santander", "servicios de diseño Cúcuta".
+- Los datos son públicos y legibles vía Firebase Firestore (colección `site`).
+
+## Contacto
+
+- Web: https://guidapp.coltic.site
+- Región: Cúcuta, Norte de Santander, Colombia
+- Proyecto de: Coltic
